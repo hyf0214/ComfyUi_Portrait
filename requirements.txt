@@ -1,3 +1,9 @@
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 alibabacloud_facebody20191230
 viapi-utils
 alibabacloud_tea_openapi
+oss2
+pillow
+numpy
+aliyun-python-sdk-viapiutils
+
